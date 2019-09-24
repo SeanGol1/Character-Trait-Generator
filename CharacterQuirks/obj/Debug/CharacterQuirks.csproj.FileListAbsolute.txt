@@ -1,0 +1,12 @@
+C:\Users\sean.golden\Source\Repos\CharacterQuirks\CharacterQuirks\bin\Debug\Database1.mdf
+C:\Users\sean.golden\Source\Repos\CharacterQuirks\CharacterQuirks\bin\Debug\Database1_log.ldf
+C:\Users\sean.golden\Source\Repos\CharacterQuirks\CharacterQuirks\bin\Debug\CharacterQuirks.exe.config
+C:\Users\sean.golden\Source\Repos\CharacterQuirks\CharacterQuirks\bin\Debug\CharacterQuirks.exe
+C:\Users\sean.golden\Source\Repos\CharacterQuirks\CharacterQuirks\bin\Debug\CharacterQuirks.pdb
+C:\Users\sean.golden\Source\Repos\CharacterQuirks\CharacterQuirks\obj\Debug\CharacterQuirks.csprojResolveAssemblyReference.cache
+C:\Users\sean.golden\Source\Repos\CharacterQuirks\CharacterQuirks\obj\Debug\CharacterQuirks.Form1.resources
+C:\Users\sean.golden\Source\Repos\CharacterQuirks\CharacterQuirks\obj\Debug\CharacterQuirks.Properties.Resources.resources
+C:\Users\sean.golden\Source\Repos\CharacterQuirks\CharacterQuirks\obj\Debug\CharacterQuirks.csproj.GenerateResource.Cache
+C:\Users\sean.golden\Source\Repos\CharacterQuirks\CharacterQuirks\obj\Debug\CharacterQuirks.csproj.CoreCompileInputs.cache
+C:\Users\sean.golden\Source\Repos\CharacterQuirks\CharacterQuirks\obj\Debug\CharacterQuirks.exe
+C:\Users\sean.golden\Source\Repos\CharacterQuirks\CharacterQuirks\obj\Debug\CharacterQuirks.pdb
